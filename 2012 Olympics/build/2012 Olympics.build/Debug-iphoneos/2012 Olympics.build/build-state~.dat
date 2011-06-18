@@ -1,0 +1,1908 @@
+T2012 Olympics
+v7
+r0
+t323181599.657218
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Info.plist" _012_Olympics-Info.plist
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/MainWindow_iPhone.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/MainWindow_iPad.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.xib"
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/archery.gif" iPhone/archery.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/athletics.gif" iPhone/athletics.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/badminton.gif" iPhone/badminton.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/basketball.gif" iPhone/basketball.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/beach-volleyball.gif" iPhone/beach-volleyball.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/boxing.gif" iPhone/boxing.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/canoe-slalom.gif" iPhone/canoe-slalom.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/canoe-sprint.gif" iPhone/canoe-sprint.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-bmx.gif" iPhone/cycling-bmx.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-mountain-bike.gif" iPhone/cycling-mountain-bike.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-road.gif" iPhone/cycling-road.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-track.gif" iPhone/cycling-track.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/diving.gif" iPhone/diving.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/equestrian-dressage.gif" iPhone/equestrian-dressage.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/equestrian-eventing.gif" iPhone/equestrian-eventing.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/equestrian-jumping.gif" iPhone/equestrian-jumping.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/fencing.gif" iPhone/fencing.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/football.gif" iPhone/football.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/gymnastics-artistic.gif" iPhone/gymnastics-artistic.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/gymnastics-rhythmic.gif" iPhone/gymnastics-rhythmic.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/gymnastics-trampoline.gif" iPhone/gymnastics-trampoline.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/handball.gif" iPhone/handball.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/hockey.gif" iPhone/hockey.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/judo.gif" iPhone/judo.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/modern-pentathlon.gif" iPhone/modern-pentathlon.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/rowing.gif" iPhone/rowing.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/sailing.gif" iPhone/sailing.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/shooting.gif" iPhone/shooting.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/swimming.gif" iPhone/swimming.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/synchronised-swimming.gif" iPhone/synchronised-swimming.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/table-tennis.gif" iPhone/table-tennis.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/taekwondo.gif" iPhone/taekwondo.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/tennis.gif" iPhone/tennis.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/triathlon.gif" iPhone/triathlon.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/volleyball.gif" iPhone/volleyball.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/water-polo.gif" iPhone/water-polo.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/weightlifting.gif" iPhone/weightlifting.gif
+cCpResource "build/Debug-iphoneos/2012 Olympics.app/wrestling.gif" iPhone/wrestling.gif
+cProcessPCH /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch.gch _012_Olympics_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch.gch _012_Olympics_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/main-B9843B6026D6EFA4.o" "/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPhone.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Home.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Events.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDown.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Anthem.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/HomeiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/EventsiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDowniPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/ScheduleiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AnthemiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main-B79943768523D566.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/main-B9843B6026D6EFA4.o" "/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics" normal armv6
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPhone.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Home.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Events.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDown.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Anthem.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/HomeiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/EventsiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDowniPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/ScheduleiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AnthemiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main-B79943768523D566.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics" normal armv7
+cCreateUniversalBinary "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app.dSYM" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics"
+cProcessProductPackaging "/Users/Frahaan/Library/MobileDevice/Provisioning Profiles/48254A07-15BF-4D50-86F0-93CDFCA1556B.mobileprovision" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/embedded.mobileprovision"
+cTouch "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent"
+cCodeSign "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/Frahaan/Desktop/2012 Olympics/Main Schedule.h
+c000000004D925CB90000000000000174
+t1301437625
+s372
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/Main.h
+c000000004D92551D000000000000015C
+t1301435677
+s348
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m
+c000000004D92305B0000000000000175
+t1301426267
+s373
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/_012_Olympics_Prefix.pch
+c000000004D92305B00000000000000C3
+t1301426267
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent
+t1301488794
+s436
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics
+t1301488793
+s32932
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics.LinkFileList
+c000000004D93248E00000000000007D5
+t1301488782
+s2005
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Anthem.o
+t1301488792
+s37320
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AnthemiPad.o
+t1301488792
+s37848
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPad.o
+t1301488792
+s52332
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPhone.o
+t1301488792
+s53108
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDown.o
+t1301488792
+s37376
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDowniPad.o
+t1301488792
+s37908
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Events.o
+t1301488792
+s37720
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/EventsiPad.o
+t1301488792
+s37848
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Home.o
+t1301488792
+s37288
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/HomeiPad.o
+t1301488792
+s37812
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main Schedule.o
+t1301488792
+s38080
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main-B79943768523D566.o
+t1301488792
+s37900
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Schedule.o
+t1301488792
+s37360
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/ScheduleiPad.o
+t1301488792
+s37892
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/main-B9843B6026D6EFA4.o
+t1301488792
+s6456
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics
+t1301488794
+s32932
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics.LinkFileList
+c000000004D93248E00000000000007D5
+t1301488782
+s2005
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Anthem.o
+t1301488793
+s37292
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AnthemiPad.o
+t1301488793
+s37820
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPad.o
+t1301488793
+s52256
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPhone.o
+t1301488793
+s53028
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDown.o
+t1301488793
+s37348
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDowniPad.o
+t1301488793
+s37880
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Events.o
+t1301488793
+s37684
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/EventsiPad.o
+t1301488793
+s37820
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Home.o
+t1301488793
+s37260
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/HomeiPad.o
+t1301488793
+s37784
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main Schedule.o
+t1301488793
+s38040
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main-B79943768523D566.o
+t1301488793
+s37864
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Schedule.o
+t1301488793
+s37332
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/ScheduleiPad.o
+t1301488793
+s37864
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/main-B9843B6026D6EFA4.o
+t1301488792
+s6440
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app
+t1301488799
+s2006
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app.dSYM
+t1301488794
+s102
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics
+t1301488794
+s73892
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Anthem.nib
+t1301488785
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/AnthemiPad.nib
+t1301488787
+s795
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/CountDown.nib
+t1301488784
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/CountDowniPad.nib
+t1301488787
+s795
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Events.nib
+t1301488784
+s8730
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/EventsiPad.nib
+t1301488786
+s795
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Home.nib
+t1301488784
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/HomeiPad.nib
+t1301488786
+s795
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Info.plist
+t1301488782
+s1148
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/MainWindow_iPad.nib
+t1301488783
+s2164
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/MainWindow_iPhone.nib
+t1301488783
+s1930
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/PkgInfo
+t1301488782
+s8
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/ResourceRules.plist
+t1301488782
+s485
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Schedule.nib
+t1301488785
+s1890
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/ScheduleiPad.nib
+t1301488787
+s795
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/archery.gif
+t1301488787
+s1304
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/athletics.gif
+t1301488787
+s905
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/badminton.gif
+t1301488787
+s1253
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/basketball.gif
+t1301488787
+s933
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/beach-volleyball.gif
+t1301488787
+s1091
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/boxing.gif
+t1301488787
+s1778
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/canoe-slalom.gif
+t1301488787
+s1492
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/canoe-sprint.gif
+t1301488787
+s1185
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/cycling-bmx.gif
+t1301488787
+s1235
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/cycling-mountain-bike.gif
+t1301488787
+s1457
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/cycling-road.gif
+t1301488787
+s1380
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/cycling-track.gif
+t1301488787
+s1154
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/diving.gif
+t1301488787
+s965
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/embedded.mobileprovision
+t1301488794
+s7308
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/equestrian-dressage.gif
+t1301488787
+s1365
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/equestrian-eventing.gif
+t1301488787
+s1497
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/equestrian-jumping.gif
+t1301488787
+s1409
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/fencing.gif
+t1301488787
+s930
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/football.gif
+t1301488787
+s977
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/gymnastics-artistic.gif
+t1301488787
+s915
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/gymnastics-rhythmic.gif
+t1301488787
+s1204
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/gymnastics-trampoline.gif
+t1301488787
+s980
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/handball.gif
+t1301488787
+s980
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/hockey.gif
+t1301488787
+s1013
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/judo.gif
+t1301488787
+s1476
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/modern-pentathlon.gif
+t1301488787
+s4245
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/rowing.gif
+t1301488787
+s1173
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/sailing.gif
+t1301488787
+s1392
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/shooting.gif
+t1301488787
+s1009
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/swimming.gif
+t1301488787
+s739
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/synchronised-swimming.gif
+t1301488787
+s1356
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/table-tennis.gif
+t1301488787
+s1103
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/taekwondo.gif
+t1301488787
+s1176
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/tennis.gif
+t1301488787
+s1063
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/triathlon.gif
+t1301488787
+s1508
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/volleyball.gif
+t1301488787
+s998
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/water-polo.gif
+t1301488787
+s1001
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/weightlifting.gif
+t1301488787
+s1058
+
+N/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/wrestling.gif
+t1301488787
+s1236
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.h
+c000000004D9241FA00000000000000E4
+t1301430778
+s228
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m
+c000000004D9241FA000000000000051B
+t1301430778
+s1307
+i"AnthemiPad.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.xib
+c000000004D9242890000000000003A92
+t1301430921
+s14994
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.h
+c000000004D9240EA00000000000001C3
+t1301430506
+s451
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m
+c000000004D9240ED0000000000000718
+t1301430509
+s1816
+i"AppDelegate_iPad.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.h
+c000000004D9241E700000000000000EA
+t1301430759
+s234
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m
+c000000004D9241E70000000000000524
+t1301430759
+s1316
+i"CountDowniPad.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.xib
+c000000004D9242780000000000003A9B
+t1301430904
+s15003
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.h
+c000000004D924B2A00000000000000E6
+t1301433130
+s230
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m
+c000000004D924B2A000000000000051D
+t1301433130
+s1309
+i"EventsiPad.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.xib
+c000000004D925E110000000000003B15
+t1301437969
+s15125
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.h
+c000000004D9241CF00000000000000E0
+t1301430735
+s224
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m
+c000000004D9241CF0000000000000515
+t1301430735
+s1301
+i"HomeiPad.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.xib
+c000000004D9242650000000000003A97
+t1301430885
+s14999
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/MainWindow_iPad.xib
+c000000004D92424700000000000081CD
+t1301430855
+s33229
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.h
+c000000004D9241F100000000000000E8
+t1301430769
+s232
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m
+c000000004D9241F10000000000000521
+t1301430769
+s1313
+i"ScheduleiPad.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.xib
+c000000004D9242800000000000003A98
+t1301430912
+s15000
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m
+c000000004D925CBC0000000000000194
+t1301437628
+s404
+i"Main Schedule.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m
+c000000004D93201F0000000000000176
+t1301487647
+s374
+i"Main.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.h
+c000000004D9230D200000000000000DC
+t1301426386
+s220
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m
+c000000004D9230D20000000000000594
+t1301426386
+s1428
+i"Anthem.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.xib
+c000000004D9231F20000000000003A63
+t1301426674
+s14947
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.h
+c000000004D92312100000000000001C7
+t1301426465
+s455
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m
+c000000004D9231680000000000000A41
+t1301426536
+s2625
+i"AppDelegate_iPhone.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.h
+c000000004D9230AE00000000000000E2
+t1301426350
+s226
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m
+c000000004D9230AE000000000000059D
+t1301426350
+s1437
+i"CountDown.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.xib
+c000000004D9231DC0000000000003A6C
+t1301426652
+s14956
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.h
+c000000004D92551D00000000000000DC
+t1301435677
+s220
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m
+c000000004D92551D0000000000000595
+t1301435677
+s1429
+i"Events.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.xib
+c000000004D9322500000000000016836
+t1301488208
+s92214
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.h
+c000000004D92309200000000000000D8
+t1301426322
+s216
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m
+c000000004D923092000000000000058E
+t1301426322
+s1422
+i"Home.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.xib
+c000000004D924A960000000000003A6C
+t1301432982
+s14956
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/MainWindow_iPhone.xib
+c000000004D9232B90000000000007B45
+t1301426873
+s31557
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.h
+c000000004D9230B800000000000000E0
+t1301426360
+s224
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m
+c000000004D9230B8000000000000059A
+t1301426360
+s1434
+i"Schedule.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.xib
+c000000004D925F280000000000005E9F
+t1301438248
+s24223
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/archery.gif
+c000000004D90BB380000000000000518
+t1301330744
+s1304
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/athletics.gif
+c000000004D90BC590000000000000389
+t1301331033
+s905
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/badminton.gif
+c000000004D90BC6000000000000004E5
+t1301331040
+s1253
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/basketball.gif
+c000000004D90BC6300000000000003A5
+t1301331043
+s933
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/beach-volleyball.gif
+c000000004D90BC660000000000000443
+t1301331046
+s1091
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/boxing.gif
+c000000004D90BC6900000000000006F2
+t1301331049
+s1778
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/canoe-slalom.gif
+c000000004D90BC6D00000000000005D4
+t1301331053
+s1492
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/canoe-sprint.gif
+c000000004D90BC7100000000000004A1
+t1301331057
+s1185
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-bmx.gif
+c000000004D90BC7900000000000004D3
+t1301331065
+s1235
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-mountain-bike.gif
+c000000004D90BC7C00000000000005B1
+t1301331068
+s1457
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-road.gif
+c000000004D90BC7F0000000000000564
+t1301331071
+s1380
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-track.gif
+c000000004D90BC810000000000000482
+t1301331073
+s1154
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/diving.gif
+c000000004D90BC8500000000000003C5
+t1301331077
+s965
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-dressage.gif
+c000000004D90BC8A0000000000000555
+t1301331082
+s1365
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-eventing.gif
+c000000004D90BC8E00000000000005D9
+t1301331086
+s1497
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-jumping.gif
+c000000004D90BC950000000000000581
+t1301331093
+s1409
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/fencing.gif
+c000000004D90BCA000000000000003A2
+t1301331104
+s930
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/football.gif
+c000000004D90BCA300000000000003D1
+t1301331107
+s977
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-artistic.gif
+c000000004D90BCA70000000000000393
+t1301331111
+s915
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-rhythmic.gif
+c000000004D90BCAA00000000000004B4
+t1301331114
+s1204
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-trampoline.gif
+c000000004D90BCAD00000000000003D4
+t1301331117
+s980
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/handball.gif
+c000000004D90BCB100000000000003D4
+t1301331121
+s980
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/hockey.gif
+c000000004D90BCB500000000000003F5
+t1301331125
+s1013
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/judo.gif
+c000000004D90BCB900000000000005C4
+t1301331129
+s1476
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/modern-pentathlon.gif
+c000000004D90BCBD0000000000001095
+t1301331133
+s4245
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/rowing.gif
+c000000004D90BCBF0000000000000495
+t1301331135
+s1173
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/sailing.gif
+c000000004D90BCC30000000000000570
+t1301331139
+s1392
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/shooting.gif
+c000000004D90BCC600000000000003F1
+t1301331142
+s1009
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/swimming.gif
+c000000004D90BCCA00000000000002E3
+t1301331146
+s739
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/synchronised-swimming.gif
+c000000004D90BCCD000000000000054C
+t1301331149
+s1356
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/table-tennis.gif
+c000000004D90BCD0000000000000044F
+t1301331152
+s1103
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/taekwondo.gif
+c000000004D90BCD30000000000000498
+t1301331155
+s1176
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/tennis.gif
+c000000004D90BCD80000000000000427
+t1301331160
+s1063
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/triathlon.gif
+c000000004D90BCDC00000000000005E4
+t1301331164
+s1508
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/volleyball.gif
+c000000004D90BCDF00000000000003E6
+t1301331167
+s998
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/water-polo.gif
+c000000004D90BCE300000000000003E9
+t1301331171
+s1001
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/weightlifting.gif
+c000000004D90BCE60000000000000422
+t1301331174
+s1058
+
+N/Users/Frahaan/Desktop/2012 Olympics/iPhone/wrestling.gif
+c000000004D90BCE900000000000004D4
+t1301331177
+s1236
+
+N/Users/Frahaan/Library/MobileDevice/Provisioning Profiles/48254A07-15BF-4D50-86F0-93CDFCA1556B.mobileprovision
+c000000004D9324120000000000001C8C
+t1301488658
+s7308
+
+N/var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch.gch
+t1301488792
+s10446552
+
+N/var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch.gch
+t1301488792
+s9983704
+
+N_012_Olympics-Info.plist
+c000000004D932469000000000000057E
+t1301488745
+s1406
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323181582#323181582#0(0"0(0#1#0"8618034560#0"0#
+
+CCodeSign "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"
+s323181594.333214
+e323181599.657063
+r1
+xCodeSign
+x/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app
+lSLF07#2@49"CodeSign "build/Debug-iphoneos/2012 Olympics.app"323181594#323181599#0(0"0(0#0#75"/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app8616705408#681"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Frahaan Hussain (PCY3ETE26U)" "--resource-rules=/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/ResourceRules.plist" --entitlements "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Anthem.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.426543
+e323181592.543211
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Anthem.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m323181592#323181592#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m8616704416#1855"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Anthem.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AnthemiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.744681
+e323181592.845037
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AnthemiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m323181592#323181592#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m8617720928#1861"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AnthemiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.188935
+e323181592.321564
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m323181592#323181592#0(0"0(0#0#60"/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m8619086304#1873"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPhone.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.102234
+e323181592.254857
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPhone.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m323181592#323181592#0(0"0(0#0#64"/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m8621444320#1879"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/AppDelegate_iPhone.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDown.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.330726
+e323181592.423478
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDown.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m323181592#323181592#0(0"0(0#0#55"/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m8618053664#1861"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDown.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDowniPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.640952
+e323181592.744564
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDowniPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m323181592#323181592#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m8618476800#1867"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/CountDowniPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Events.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.321683
+e323181592.426431
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Events.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m323181592#323181592#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m8618297984#1855"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Events.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/EventsiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.543332
+e323181592.657664
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/EventsiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m323181592#323181592#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m8619246112#1861"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/EventsiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Home.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.254982
+e323181592.330599
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Home.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m323181592#323181592#0(0"0(0#0#50"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m8618442368#1851"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Home.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/HomeiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.536107
+e323181592.640829
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/HomeiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m323181592#323181592#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m8621669472#1857"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/HomeiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.845157
+e323181592.988061
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main Schedule.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m323181592#323181593#0(0"0(0#0#62"/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m8616771360#1872"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main Schedule.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main-B79943768523D566.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.754438
+e323181592.888937
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main-B79943768523D566.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m323181592#323181592#0(0"0(0#0#53"/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m8617492128#1871"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Main-B79943768523D566.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.423592
+e323181592.535980
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Schedule.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m323181592#323181592#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m8617661472#1859"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/Schedule.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/ScheduleiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.657779
+e323181592.754317
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/ScheduleiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m323181592#323181592#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m8618172320#1865"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/ScheduleiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/main-B9843B6026D6EFA4.o" "/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181592.100790
+e323181592.188736
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/main-B9843B6026D6EFA4.o
+x/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Frahaan/Desktop/2012 Olympics/Shared/main.m323181592#323181592#0(0"0(0#0#50"/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m8621849344#1868"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/main-B9843B6026D6EFA4.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Anthem.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.450893
+e323181593.548066
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Anthem.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m323181593#323181593#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m8618904896#1855"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Anthem.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AnthemiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.765892
+e323181593.866518
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AnthemiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m323181593#323181593#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m8621942912#1861"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AnthemiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.099954
+e323181593.202403
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m323181593#323181593#0(0"0(0#0#60"/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m8616881984#1873"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/AppDelegate_iPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPhone.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181592.993871
+e323181593.099837
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPhone.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m323181592#323181593#0(0"0(0#0#64"/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m8617581760#1879"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/AppDelegate_iPhone.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/AppDelegate_iPhone.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDown.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.368472
+e323181593.450771
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDown.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m323181593#323181593#0(0"0(0#0#55"/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m8621562016#1861"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDown.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDowniPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.638651
+e323181593.783000
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDowniPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m323181593#323181593#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m8617366400#1867"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/CountDowniPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Events.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.278436
+e323181593.368366
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Events.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m323181593#323181593#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m8618919328#1855"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Events.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/EventsiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.548297
+e323181593.638539
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/EventsiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m323181593#323181593#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m8618057312#1861"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/EventsiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Home.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.202532
+e323181593.278300
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Home.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m323181593#323181593#0(0"0(0#0#50"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m8619212544#1851"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Home.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/HomeiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.542894
+e323181593.652492
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/HomeiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m323181593#323181593#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m8616647488#1857"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/HomeiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.866663
+e323181593.954704
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main Schedule.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m323181593#323181593#0(0"0(0#0#62"/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m8618672768#1872"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main Schedule.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main Schedule.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main-B79943768523D566.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.783114
+e323181593.901485
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main-B79943768523D566.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m323181593#323181593#0(0"0(0#0#53"/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m8619019296#1871"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/../Main.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Main-B79943768523D566.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.416950
+e323181593.542647
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Schedule.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m323181593#323181593#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m8619259520#1859"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/Schedule.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/ScheduleiPad.o" "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181593.652605
+e323181593.765775
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/ScheduleiPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m323181593#323181593#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m8616278304#1865"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/ScheduleiPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/main-B9843B6026D6EFA4.o" "/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181592.889079
+e323181592.993761
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/main-B9843B6026D6EFA4.o
+x/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Frahaan/Desktop/2012 Olympics/Shared/main.m323181592#323181593#0(0"0(0#0#50"/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m8621877024#1868"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/Shared/main.m" -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/main-B9843B6026D6EFA4.o"0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.xib"
+s323181587.319260
+e323181588.362241
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.xib
+lSLF07#2@30"CompileXIB iPad/AnthemiPad.xib323181587#323181588#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.xib8616373120#553"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/AnthemiPad.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPad/AnthemiPad.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.xib"
+s323181586.461740
+e323181587.331238
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.xib
+lSLF07#2@33"CompileXIB iPad/CountDowniPad.xib323181586#323181587#0(0"0(0#0#59"/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.xib8616678816#559"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/CountDowniPad.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPad/CountDowniPad.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.xib"
+s323181585.613292
+e323181586.461537
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.xib
+lSLF07#2@30"CompileXIB iPad/EventsiPad.xib323181585#323181586#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.xib8622333248#553"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/EventsiPad.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPad/EventsiPad.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.xib"
+s323181585.557272
+e323181586.463292
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.xib
+lSLF07#2@28"CompileXIB iPad/HomeiPad.xib323181585#323181586#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.xib8618389056#549"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/HomeiPad.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPad/HomeiPad.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/MainWindow_iPad.xib"
+s323181582.814500
+e323181583.731932
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib323181582#323181583#0(0"0(0#0#61"/Users/Frahaan/Desktop/2012 Olympics/iPad/MainWindow_iPad.xib8622221344#563"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/MainWindow_iPad.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPad/MainWindow_iPad.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.xib"
+s323181586.463377
+e323181587.319133
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.xib
+lSLF07#2@32"CompileXIB iPad/ScheduleiPad.xib323181586#323181587#0(0"0(0#0#58"/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.xib8609439488#557"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/ScheduleiPad.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPad/ScheduleiPad.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.xib"
+s323181584.997358
+e323181585.557168
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.xib
+lSLF07#2@28"CompileXIB iPhone/Anthem.xib323181584#323181585#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.xib8621784672#547"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Anthem.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Anthem.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.xib"
+s323181584.344261
+e323181584.997245
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.xib
+lSLF07#2@31"CompileXIB iPhone/CountDown.xib323181584#323181584#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.xib8622149920#553"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/CountDown.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/CountDown.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.xib"
+s323181583.780584
+e323181584.903615
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.xib
+lSLF07#2@28"CompileXIB iPhone/Events.xib323181583#323181584#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.xib8621925632#547"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Events.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Events.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.xib"
+s323181583.732041
+e323181584.340020
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.xib
+lSLF07#2@26"CompileXIB iPhone/Home.xib323181583#323181584#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.xib8616996416#543"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Home.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Home.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/MainWindow_iPhone.xib"
+s323181582.812965
+e323181583.780476
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib323181582#323181583#0(0"0(0#0#65"/Users/Frahaan/Desktop/2012 Olympics/iPhone/MainWindow_iPhone.xib8622364928#569"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/MainWindow_iPhone.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/MainWindow_iPhone.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.xib"
+s323181584.903749
+e323181585.613195
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.xib
+lSLF07#2@30"CompileXIB iPhone/Schedule.xib323181584#323181585#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.xib8622183008#551"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Schedule.nib" "/Users/Frahaan/Desktop/2012 Olympics/iPhone/Schedule.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s323181582.792873
+e323181582.809520
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist323181582#323181582#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8618546208#500"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/archery.gif" iPhone/archery.gif
+s323181587.331347
+e323181587.376298
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/archery.gif
+xiPhone/archery.gif
+lSLF07#2@23"Copy iPhone/archery.gif323181587#323181587#0(0"0(0#0#55"/Users/Frahaan/Desktop/2012 Olympics/iPhone/archery.gif8622114144#468"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/archery.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/athletics.gif" iPhone/athletics.gif
+s323181587.333547
+e323181587.376452
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/athletics.gif
+xiPhone/athletics.gif
+lSLF07#2@25"Copy iPhone/athletics.gif323181587#323181587#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPhone/athletics.gif8621800992#470"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/athletics.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/badminton.gif" iPhone/badminton.gif
+s323181587.343947
+e323181587.376587
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/badminton.gif
+xiPhone/badminton.gif
+lSLF07#2@25"Copy iPhone/badminton.gif323181587#323181587#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPhone/badminton.gif8621492064#470"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/badminton.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/basketball.gif" iPhone/basketball.gif
+s323181587.347262
+e323181587.376744
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/basketball.gif
+xiPhone/basketball.gif
+lSLF07#2@26"Copy iPhone/basketball.gif323181587#323181587#0(0"0(0#0#58"/Users/Frahaan/Desktop/2012 Olympics/iPhone/basketball.gif8619279392#471"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/basketball.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/beach-volleyball.gif" iPhone/beach-volleyball.gif
+s323181587.354126
+e323181587.376995
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/beach-volleyball.gif
+xiPhone/beach-volleyball.gif
+lSLF07#2@32"Copy iPhone/beach-volleyball.gif323181587#323181587#0(0"0(0#0#64"/Users/Frahaan/Desktop/2012 Olympics/iPhone/beach-volleyball.gif8619247040#477"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/beach-volleyball.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/boxing.gif" iPhone/boxing.gif
+s323181587.355315
+e323181587.377130
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/boxing.gif
+xiPhone/boxing.gif
+lSLF07#2@22"Copy iPhone/boxing.gif323181587#323181587#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/boxing.gif8619164000#467"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/boxing.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/canoe-slalom.gif" iPhone/canoe-slalom.gif
+s323181587.362423
+e323181587.377266
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/canoe-slalom.gif
+xiPhone/canoe-slalom.gif
+lSLF07#2@28"Copy iPhone/canoe-slalom.gif323181587#323181587#0(0"0(0#0#60"/Users/Frahaan/Desktop/2012 Olympics/iPhone/canoe-slalom.gif8619088608#473"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/canoe-slalom.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/canoe-sprint.gif" iPhone/canoe-sprint.gif
+s323181587.367719
+e323181587.403081
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/canoe-sprint.gif
+xiPhone/canoe-sprint.gif
+lSLF07#2@28"Copy iPhone/canoe-sprint.gif323181587#323181587#0(0"0(0#0#60"/Users/Frahaan/Desktop/2012 Olympics/iPhone/canoe-sprint.gif8618961184#473"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/canoe-sprint.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-bmx.gif" iPhone/cycling-bmx.gif
+s323181587.374413
+e323181587.403213
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/cycling-bmx.gif
+xiPhone/cycling-bmx.gif
+lSLF07#2@27"Copy iPhone/cycling-bmx.gif323181587#323181587#0(0"0(0#0#59"/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-bmx.gif8618869952#472"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-bmx.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-mountain-bike.gif" iPhone/cycling-mountain-bike.gif
+s323181587.377355
+e323181587.402337
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/cycling-mountain-bike.gif
+xiPhone/cycling-mountain-bike.gif
+lSLF07#2@37"Copy iPhone/cycling-mountain-bike.gif323181587#323181587#0(0"0(0#0#69"/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-mountain-bike.gif8618484128#482"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-mountain-bike.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-road.gif" iPhone/cycling-road.gif
+s323181587.379714
+e323181587.402529
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/cycling-road.gif
+xiPhone/cycling-road.gif
+lSLF07#2@28"Copy iPhone/cycling-road.gif323181587#323181587#0(0"0(0#0#60"/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-road.gif8618392768#473"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-road.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/cycling-track.gif" iPhone/cycling-track.gif
+s323181587.383141
+e323181587.402682
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/cycling-track.gif
+xiPhone/cycling-track.gif
+lSLF07#2@29"Copy iPhone/cycling-track.gif323181587#323181587#0(0"0(0#0#61"/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-track.gif8618292576#474"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/cycling-track.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/diving.gif" iPhone/diving.gif
+s323181587.388714
+e323181587.402814
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/diving.gif
+xiPhone/diving.gif
+lSLF07#2@22"Copy iPhone/diving.gif323181587#323181587#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/diving.gif8617411200#467"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/diving.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/equestrian-dressage.gif" iPhone/equestrian-dressage.gif
+s323181587.390771
+e323181587.402950
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/equestrian-dressage.gif
+xiPhone/equestrian-dressage.gif
+lSLF07#2@35"Copy iPhone/equestrian-dressage.gif323181587#323181587#0(0"0(0#0#67"/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-dressage.gif8616436800#480"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-dressage.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/equestrian-eventing.gif" iPhone/equestrian-eventing.gif
+s323181587.392889
+e323181587.466179
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/equestrian-eventing.gif
+xiPhone/equestrian-eventing.gif
+lSLF07#2@35"Copy iPhone/equestrian-eventing.gif323181587#323181587#0(0"0(0#0#67"/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-eventing.gif8611478880#480"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-eventing.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/equestrian-jumping.gif" iPhone/equestrian-jumping.gif
+s323181587.400815
+e323181587.466324
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/equestrian-jumping.gif
+xiPhone/equestrian-jumping.gif
+lSLF07#2@34"Copy iPhone/equestrian-jumping.gif323181587#323181587#0(0"0(0#0#66"/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-jumping.gif8622291072#479"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/equestrian-jumping.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/fencing.gif" iPhone/fencing.gif
+s323181587.403298
+e323181587.465403
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/fencing.gif
+xiPhone/fencing.gif
+lSLF07#2@23"Copy iPhone/fencing.gif323181587#323181587#0(0"0(0#0#55"/Users/Frahaan/Desktop/2012 Olympics/iPhone/fencing.gif8621931904#468"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/fencing.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/football.gif" iPhone/football.gif
+s323181587.409942
+e323181587.465565
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/football.gif
+xiPhone/football.gif
+lSLF07#2@24"Copy iPhone/football.gif323181587#323181587#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPhone/football.gif8619208352#469"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/football.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/gymnastics-artistic.gif" iPhone/gymnastics-artistic.gif
+s323181587.420162
+e323181587.465721
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/gymnastics-artistic.gif
+xiPhone/gymnastics-artistic.gif
+lSLF07#2@35"Copy iPhone/gymnastics-artistic.gif323181587#323181587#0(0"0(0#0#67"/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-artistic.gif8618685120#480"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-artistic.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/gymnastics-rhythmic.gif" iPhone/gymnastics-rhythmic.gif
+s323181587.426667
+e323181587.465872
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/gymnastics-rhythmic.gif
+xiPhone/gymnastics-rhythmic.gif
+lSLF07#2@35"Copy iPhone/gymnastics-rhythmic.gif323181587#323181587#0(0"0(0#0#67"/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-rhythmic.gif8618578304#480"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-rhythmic.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/gymnastics-trampoline.gif" iPhone/gymnastics-trampoline.gif
+s323181587.450571
+e323181587.466023
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/gymnastics-trampoline.gif
+xiPhone/gymnastics-trampoline.gif
+lSLF07#2@37"Copy iPhone/gymnastics-trampoline.gif323181587#323181587#0(0"0(0#0#69"/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-trampoline.gif8618348608#482"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/gymnastics-trampoline.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/handball.gif" iPhone/handball.gif
+s323181587.451755
+e323181587.466472
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/handball.gif
+xiPhone/handball.gif
+lSLF07#2@24"Copy iPhone/handball.gif323181587#323181587#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPhone/handball.gif8616925088#469"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/handball.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/hockey.gif" iPhone/hockey.gif
+s323181587.456243
+e323181587.466617
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/hockey.gif
+xiPhone/hockey.gif
+lSLF07#2@22"Copy iPhone/hockey.gif323181587#323181587#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/hockey.gif8614618720#467"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/hockey.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/judo.gif" iPhone/judo.gif
+s323181587.466703
+e323181587.535561
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/judo.gif
+xiPhone/judo.gif
+lSLF07#2@20"Copy iPhone/judo.gif323181587#323181587#0(0"0(0#0#52"/Users/Frahaan/Desktop/2012 Olympics/iPhone/judo.gif8601035840#465"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/judo.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/modern-pentathlon.gif" iPhone/modern-pentathlon.gif
+s323181587.468749
+e323181587.535709
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/modern-pentathlon.gif
+xiPhone/modern-pentathlon.gif
+lSLF07#2@33"Copy iPhone/modern-pentathlon.gif323181587#323181587#0(0"0(0#0#65"/Users/Frahaan/Desktop/2012 Olympics/iPhone/modern-pentathlon.gif8598950624#478"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/modern-pentathlon.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/rowing.gif" iPhone/rowing.gif
+s323181587.485384
+e323181587.536801
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/rowing.gif
+xiPhone/rowing.gif
+lSLF07#2@22"Copy iPhone/rowing.gif323181587#323181587#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/rowing.gif8617792832#467"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/rowing.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/sailing.gif" iPhone/sailing.gif
+s323181587.490625
+e323181587.536946
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/sailing.gif
+xiPhone/sailing.gif
+lSLF07#2@23"Copy iPhone/sailing.gif323181587#323181587#0(0"0(0#0#55"/Users/Frahaan/Desktop/2012 Olympics/iPhone/sailing.gif8617690016#468"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/sailing.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/shooting.gif" iPhone/shooting.gif
+s323181587.493332
+e323181587.537078
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/shooting.gif
+xiPhone/shooting.gif
+lSLF07#2@24"Copy iPhone/shooting.gif323181587#323181587#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPhone/shooting.gif8617065408#469"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/shooting.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/swimming.gif" iPhone/swimming.gif
+s323181587.501836
+e323181587.537207
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/swimming.gif
+xiPhone/swimming.gif
+lSLF07#2@24"Copy iPhone/swimming.gif323181587#323181587#0(0"0(0#0#56"/Users/Frahaan/Desktop/2012 Olympics/iPhone/swimming.gif8616194208#469"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/swimming.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/synchronised-swimming.gif" iPhone/synchronised-swimming.gif
+s323181587.513593
+e323181587.537338
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/synchronised-swimming.gif
+xiPhone/synchronised-swimming.gif
+lSLF07#2@37"Copy iPhone/synchronised-swimming.gif323181587#323181587#0(0"0(0#0#69"/Users/Frahaan/Desktop/2012 Olympics/iPhone/synchronised-swimming.gif8614098816#482"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/synchronised-swimming.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/table-tennis.gif" iPhone/table-tennis.gif
+s323181587.528162
+e323181587.537473
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/table-tennis.gif
+xiPhone/table-tennis.gif
+lSLF07#2@28"Copy iPhone/table-tennis.gif323181587#323181587#0(0"0(0#0#60"/Users/Frahaan/Desktop/2012 Olympics/iPhone/table-tennis.gif8622242720#473"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/table-tennis.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/taekwondo.gif" iPhone/taekwondo.gif
+s323181587.529993
+e323181587.570506
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/taekwondo.gif
+xiPhone/taekwondo.gif
+lSLF07#2@25"Copy iPhone/taekwondo.gif323181587#323181587#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPhone/taekwondo.gif8622027392#470"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/taekwondo.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/tennis.gif" iPhone/tennis.gif
+s323181587.537564
+e323181587.567792
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/tennis.gif
+xiPhone/tennis.gif
+lSLF07#2@22"Copy iPhone/tennis.gif323181587#323181587#0(0"0(0#0#54"/Users/Frahaan/Desktop/2012 Olympics/iPhone/tennis.gif8621465536#467"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/tennis.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/triathlon.gif" iPhone/triathlon.gif
+s323181587.545623
+e323181587.569958
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/triathlon.gif
+xiPhone/triathlon.gif
+lSLF07#2@25"Copy iPhone/triathlon.gif323181587#323181587#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPhone/triathlon.gif8619252224#470"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/triathlon.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/volleyball.gif" iPhone/volleyball.gif
+s323181587.548688
+e323181587.570103
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/volleyball.gif
+xiPhone/volleyball.gif
+lSLF07#2@26"Copy iPhone/volleyball.gif323181587#323181587#0(0"0(0#0#58"/Users/Frahaan/Desktop/2012 Olympics/iPhone/volleyball.gif8619202368#471"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/volleyball.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/water-polo.gif" iPhone/water-polo.gif
+s323181587.554571
+e323181587.570239
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/water-polo.gif
+xiPhone/water-polo.gif
+lSLF07#2@26"Copy iPhone/water-polo.gif323181587#323181587#0(0"0(0#0#58"/Users/Frahaan/Desktop/2012 Olympics/iPhone/water-polo.gif8619091328#471"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/water-polo.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/weightlifting.gif" iPhone/weightlifting.gif
+s323181587.560022
+e323181587.570371
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/weightlifting.gif
+xiPhone/weightlifting.gif
+lSLF07#2@29"Copy iPhone/weightlifting.gif323181587#323181587#0(0"0(0#0#61"/Users/Frahaan/Desktop/2012 Olympics/iPhone/weightlifting.gif8618955456#474"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/weightlifting.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCpResource "build/Debug-iphoneos/2012 Olympics.app/wrestling.gif" iPhone/wrestling.gif
+s323181587.562163
+e323181587.573471
+r1
+xCpResource
+xbuild/Debug-iphoneos/2012 Olympics.app/wrestling.gif
+xiPhone/wrestling.gif
+lSLF07#2@25"Copy iPhone/wrestling.gif323181587#323181587#0(0"0(0#0#57"/Users/Frahaan/Desktop/2012 Olympics/iPhone/wrestling.gif8618835104#470"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Frahaan/Desktop/2012 Olympics/iPhone/wrestling.gif" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+
+CCreateUniversalBinary "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics" normal "armv6 armv7"
+s323181594.101152
+e323181594.141493
+r1
+xCreateUniversalBinary
+x/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics
+xnormal
+xarmv6 armv7
+lSLF07#2@97"CreateUniversalBinary "build/Debug-iphoneos/2012 Olympics.app/2012 Olympics" normal "armv6 armv7"323181594#323181594#0(0"0(0#0#48"/Users/Frahaan/Desktop/2012 Olympics/armv6 armv78617774080#566"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics" "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics" -output "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics"0#
+
+CGenerateDSYMFile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app.dSYM" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics"
+s323181594.141604
+e323181594.299888
+r1
+xGenerateDSYMFile
+x/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app.dSYM
+x/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics
+lSLF07#2@117"GenerateDSYMFile "build/Debug-iphoneos/2012 Olympics.app.dSYM" "build/Debug-iphoneos/2012 Olympics.app/2012 Olympics"323181594#323181594#0(0"0(0#0#89"/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics8617606336#380"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/2012 Olympics" -o "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app.dSYM"0#
+
+CLd "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics" normal armv6
+s323181592.988176
+e323181593.416813
+r1
+xLd
+x/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics
+xnormal
+xarmv6
+lSLF07#2@137"Link /Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics323181592#323181593#0(0"0(0#0#0"8619180800#895"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" -filelist "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv6/2012 Olympics"0#
+
+CLd "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics" normal armv7
+s323181593.954821
+e323181594.100994
+r1
+xLd
+x/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics
+xnormal
+xarmv7
+lSLF07#2@137"Link /Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics323181593#323181594#0(0"0(0#0#0"8618036384#895"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" -filelist "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/Objects-normal/armv7/2012 Olympics"0#
+
+CProcessInfoPlistFile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Info.plist" _012_Olympics-Info.plist
+s323181582.798937
+e323181582.812856
+r1
+xProcessInfoPlistFile
+x/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Info.plist
+x_012_Olympics-Info.plist
+lSLF07#2@32"Process _012_Olympics-Info.plist323181582#323181582#0(0"0(0#0#61"/Users/Frahaan/Desktop/2012 Olympics/_012_Olympics-Info.plist8618335744#586"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility _012_Olympics-Info.plist -genpkginfo "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/ResourceRules.plist" -o "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/Info.plist"0#
+
+CProcessPCH /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch.gch _012_Olympics_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323181588.363884
+e323181592.100655
+r1
+xProcessPCH
+x/var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch.gch
+x_012_Olympics_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile _012_Olympics_Prefix.pch323181588#323181592#0(0"0(0#0#61"/Users/Frahaan/Desktop/2012 Olympics/_012_Olympics_Prefix.pch8618186432#1736"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv7" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -c "/Users/Frahaan/Desktop/2012 Olympics/_012_Olympics_Prefix.pch" -o /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bkaddwgcllecvoaehtvdxnfupiol/_012_Olympics_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch.gch _012_Olympics_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323181588.362731
+e323181592.044277
+r1
+xProcessPCH
+x/var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch.gch
+x_012_Olympics_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile _012_Olympics_Prefix.pch323181588#323181592#0(0"0(0#0#61"/Users/Frahaan/Desktop/2012 Olympics/_012_Olympics_Prefix.pch8618349056#1736"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos" "-I/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/include" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources/armv6" "-I/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/DerivedSources" -c "/Users/Frahaan/Desktop/2012 Olympics/_012_Olympics_Prefix.pch" -o /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-bwspldjvhqoxnndpqixklkjhkerm/_012_Olympics_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Frahaan/Library/MobileDevice/Provisioning Profiles/48254A07-15BF-4D50-86F0-93CDFCA1556B.mobileprovision" "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/embedded.mobileprovision"
+s323181594.300016
+e323181594.311224
+r1
+xProcessProductPackaging
+x/Users/Frahaan/Library/MobileDevice/Provisioning Profiles/48254A07-15BF-4D50-86F0-93CDFCA1556B.mobileprovision
+x/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/Frahaan/Library/MobileDevice/Provisioning Profiles/48254A07-15BF-4D50-86F0-93CDFCA1556B.mobileprovision" "build/Debug-iphoneos/2012 Olympics.app/embedded.mobileprovision"323181594#323181594#0(0"0(0#0#100"/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/embedded.mobileprovision8618982240#431"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Frahaan/Library/MobileDevice/Provisioning Profiles/48254A07-15BF-4D50-86F0-93CDFCA1556B.mobileprovision" -o "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent"
+s323181594.318471
+e323181594.333127
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent
+lSLF07#2@195"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent"323181594#323181594#0(0"0(0#0#117"/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent8617525568#450"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/Frahaan/Desktop/2012 Olympics/build/2012 Olympics.build/Debug-iphoneos/2012 Olympics.build/2012 Olympics.xcent"0#
+
+CTouch "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"
+s323181594.311315
+e323181594.318342
+r1
+xTouch
+x/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app
+lSLF07#2@81"Touch /Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app323181594#323181594#0(0"0(0#0#0"8618714368#270"    cd "/Users/Frahaan/Desktop/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Frahaan/Desktop/2012 Olympics/build/Debug-iphoneos/2012 Olympics.app"0#
+

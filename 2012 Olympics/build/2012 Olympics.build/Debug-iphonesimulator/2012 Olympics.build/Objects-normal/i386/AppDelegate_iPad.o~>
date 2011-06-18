@@ -1,0 +1,7 @@
+/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m:14: error: no declaration of property 'tabBarController' found in the interface
+/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m: In function '-[AppDelegate_iPad application:didFinishLaunchingWithOptions:]':
+/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m:25: error: 'tabBarController' undeclared (first use in this function)
+/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m:25: error: (Each undeclared identifier is reported only once
+/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m:25: error: for each function it appears in.)
+/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m: In function '-[AppDelegate_iPad dealloc]':
+/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m:65: error: 'tabBarController' undeclared (first use in this function)

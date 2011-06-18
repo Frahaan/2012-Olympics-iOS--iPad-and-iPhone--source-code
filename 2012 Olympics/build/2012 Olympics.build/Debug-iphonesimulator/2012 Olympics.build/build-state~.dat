@@ -1,0 +1,526 @@
+T2012 Olympics
+v7
+r0
+t323119681.674908
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Info.plist" _012_Olympics-Info.plist
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/MainWindow_iPhone.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/MainWindow_iPad.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.xib"
+cCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.xib"
+cProcessPCH /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch.gch _012_Olympics_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/main.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/Shared/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPhone.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPad.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Home.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Events.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/CountDown.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Anthem.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics" normal i386
+cGenerateDSYMFile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app.dSYM" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics"
+cTouch "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CEF90B60000000000000110
+t1290768566
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/Shared/main.m
+c000000004D92305B0000000000000175
+t1301426267
+s373
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/_012_Olympics_Prefix.pch
+c000000004D92305B00000000000000C3
+t1301426267
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/2012 Olympics.LinkFileList
+c000000004D9232BD00000000000004B7
+t1301426877
+s1207
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Anthem.o
+t1301426881
+s37408
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Anthm.o
+t2
+s0
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPad.o
+t1301426881
+s48432
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1301426881
+s53536
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/CountDown.o
+t1301426881
+s37472
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Events.o
+t1301426881
+s37408
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Home.o
+t1301426881
+s37364
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Schedule.o
+t1301426881
+s37448
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/main.o
+t1301426880
+s6340
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app
+t1301426881
+s408
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app.dSYM
+t1301426881
+s102
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics
+t1301426881
+s21740
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Anthem.nib
+t1301426879
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Anthm.nib
+t2
+s0
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/CountDown.nib
+t1301426879
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Events.nib
+t1301426878
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Home.nib
+t1301426878
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Info.plist
+t1301426877
+s956
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/MainWindow_iPad.nib
+t1301426878
+s982
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/MainWindow_iPhone.nib
+t1301426878
+s1930
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/PkgInfo
+t1301426877
+s8
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Schedule.nib
+t1301426879
+s764
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.h
+c000000004D92305B000000000000014F
+t1301426267
+s335
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m
+c000000004D92305B00000000000006B5
+t1301426267
+s1717
+i"AppDelegate_iPad.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/MainWindow_iPad.xib
+c000000004D92305B00000000000036E1
+t1301426267
+s14049
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.h
+c000000004D9230D200000000000000DC
+t1301426386
+s220
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.m
+c000000004D9230D20000000000000594
+t1301426386
+s1428
+i"Anthem.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.xib
+c000000004D9231F20000000000003A63
+t1301426674
+s14947
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthm.h
+c000000004D9230C100000000000000DA
+t1301426369
+s218
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthm.m
+c000000004D9230C10000000000000591
+t1301426369
+s1425
+i"Anthm.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthm.xib
+c000000004D9230C1000000000000184A
+t1301426369
+s6218
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.h
+c000000004D92312100000000000001C7
+t1301426465
+s455
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.m
+c000000004D9231680000000000000A41
+t1301426536
+s2625
+i"AppDelegate_iPhone.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.h
+c000000004D9230AE00000000000000E2
+t1301426350
+s226
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.m
+c000000004D9230AE000000000000059D
+t1301426350
+s1437
+i"CountDown.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.xib
+c000000004D9231DC0000000000003A6C
+t1301426652
+s14956
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.h
+c000000004D92309F00000000000000DC
+t1301426335
+s220
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.m
+c000000004D92309F0000000000000594
+t1301426335
+s1428
+i"Events.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.xib
+c000000004D9231CE0000000000003A63
+t1301426638
+s14947
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.h
+c000000004D92309200000000000000D8
+t1301426322
+s216
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.m
+c000000004D923092000000000000058E
+t1301426322
+s1422
+i"Home.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.xib
+c000000004D9231B50000000000003A5D
+t1301426613
+s14941
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/MainWindow_iPhone.xib
+c000000004D9232B90000000000007B45
+t1301426873
+s31557
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.h
+c000000004D9230B800000000000000E0
+t1301426360
+s224
+i<UIKit/UIKit.h>
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.m
+c000000004D9230B8000000000000059A
+t1301426360
+s1434
+i"Schedule.h"
+
+N/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.xib
+c000000004D9231E70000000000003A69
+t1301426663
+s14953
+
+N/var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch.gch
+t1301426880
+s15453392
+
+N_012_Olympics-Info.plist
+c000000004D9231A50000000000000590
+t1301426597
+s1424
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323119677#323119677#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Anthem.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119681.281086
+e323119681.361538
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Anthem.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.m323119681#323119681#0(0"0(0#0#66"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.m8603792384#2199"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Anthem.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Anthm.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthm.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPad.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119680.974029
+e323119681.202084
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m323119680#323119681#0(0"0(0#0#74"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m8614706848#2217"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/AppDelegate_iPad.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPad.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPhone.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119680.853141
+e323119681.037110
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.m323119680#323119681#0(0"0(0#0#78"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.m8609071872#2223"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/AppDelegate_iPhone.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/AppDelegate_iPhone.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/CountDown.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119681.202211
+e323119681.280921
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/CountDown.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.m323119681#323119681#0(0"0(0#0#69"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.m8614165504#2205"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/CountDown.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Events.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119681.149150
+e323119681.244860
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Events.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.m323119681#323119681#0(0"0(0#0#66"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.m8614468160#2199"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Events.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Home.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119681.037238
+e323119681.149030
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Home.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.m323119681#323119681#0(0"0(0#0#64"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.m8614793280#2195"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Home.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Schedule.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119681.244992
+e323119681.334945
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Schedule.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.m323119681#323119681#0(0"0(0#0#68"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.m8609080896#2203"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/Schedule.o"0#
+
+CCompileC "build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/main.o" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/Shared/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119680.851768
+e323119680.973778
+r1
+xCompileC
+xbuild/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/main.o
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/Shared/main.m323119680#323119680#0(0"0(0#0#64"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/Shared/main.m8609036224#2195"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -include /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/Shared/main.m" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/MainWindow_iPad.xib"
+s323119677.788500
+e323119678.391767
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib323119677#323119678#0(0"0(0#0#75"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/MainWindow_iPad.xib8607278656#633"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/MainWindow_iPad.nib" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPad/MainWindow_iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.xib"
+s323119679.352614
+e323119679.740803
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.xib
+lSLF07#2@28"CompileXIB iPhone/Anthem.xib323119679#323119679#0(0"0(0#0#68"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.xib8604687072#617"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Anthem.nib" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthem.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Anthm.xib"
+r0
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.xib"
+s323119678.919337
+e323119679.352379
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.xib
+lSLF07#2@31"CompileXIB iPhone/CountDown.xib323119678#323119679#0(0"0(0#0#71"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.xib8613236992#623"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/CountDown.nib" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/CountDown.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.xib"
+s323119678.392766
+e323119678.943864
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.xib
+lSLF07#2@28"CompileXIB iPhone/Events.xib323119678#323119678#0(0"0(0#0#68"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.xib8611847680#617"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Events.nib" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Events.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.xib"
+s323119678.391857
+e323119678.919234
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.xib
+lSLF07#2@26"CompileXIB iPhone/Home.xib323119678#323119678#0(0"0(0#0#66"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.xib8613225632#613"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Home.nib" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Home.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/MainWindow_iPhone.xib"
+s323119677.768895
+e323119678.391579
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib323119677#323119678#0(0"0(0#0#79"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/MainWindow_iPhone.xib8607646560#639"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/MainWindow_iPhone.nib" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/MainWindow_iPhone.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.xib"
+s323119678.943969
+e323119679.480083
+r1
+xCompileXIB
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.xib
+lSLF07#2@30"CompileXIB iPhone/Schedule.xib323119678#323119679#0(0"0(0#0#70"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.xib8605645280#621"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Schedule.nib" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/iPhone/Schedule.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app.dSYM" "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics"
+s323119681.577991
+e323119681.644601
+r1
+xGenerateDSYMFile
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app.dSYM
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics
+lSLF07#2@131"GenerateDSYMFile "build/Debug-iphonesimulator/2012 Olympics.app.dSYM" "build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics"323119681#323119681#0(0"0(0#0#110"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics8613853984#443"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics" -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app.dSYM"0#
+
+CLd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics" normal i386
+s323119681.361652
+e323119681.577879
+r1
+xLd
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics
+xnormal
+xi386
+lSLF07#2@115"Link /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics323119681#323119681#0(0"0(0#0#0"8613360960#1000"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" -filelist "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/Objects-normal/i386/2012 Olympics.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/2012 Olympics"0#
+
+CProcessInfoPlistFile "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Info.plist" _012_Olympics-Info.plist
+s323119677.722396
+e323119677.768791
+r1
+xProcessInfoPlistFile
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Info.plist
+x_012_Olympics-Info.plist
+lSLF07#2@32"Process _012_Olympics-Info.plist323119677#323119677#0(0"0(0#0#75"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/_012_Olympics-Info.plist7163380297800372224#539"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility _012_Olympics-Info.plist -genpkginfo "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app/Info.plist"0#
+
+CProcessPCH /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch.gch _012_Olympics_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323119679.740957
+e323119680.851617
+r1
+xProcessPCH
+x/var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch.gch
+x_012_Olympics_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile _012_Olympics_Prefix.pch323119679#323119680#0(0"0(0#0#75"/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/_012_Olympics_Prefix.pch8614970016#2060"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-generated-files.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-own-target-headers.hmap" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-all-target-headers.hmap" -iquote "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/2012 Olympics-project-headers.hmap" "-F/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/include" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources/i386" "-I/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/2012 Olympics.build/Debug-iphonesimulator/2012 Olympics.build/DerivedSources" -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/_012_Olympics_Prefix.pch" -o /var/folders/Gp/GpJBSCzYEnmUCz0ukOUbKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_012_Olympics_Prefix-awbskydurwftcxeqgnvzqrrtjyej/_012_Olympics_Prefix.pch.gch0#
+
+CTouch "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app"
+s323119681.644713
+e323119681.674838
+r1
+xTouch
+x/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app
+lSLF07#2@102"Touch /Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app323119681#323119681#0(0"0(0#0#0"8613342272#312"    cd "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Frahaan/Desktop/2012 Olympics/2012 Olympics/build/Debug-iphonesimulator/2012 Olympics.app"0#
+
